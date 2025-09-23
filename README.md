@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @himanidobriyal
-- 👀 I’m interested in web and app development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning 
 
 
